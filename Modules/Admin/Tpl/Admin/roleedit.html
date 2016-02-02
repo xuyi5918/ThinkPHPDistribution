@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>后台管理系统</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" type="text/css" href="__PUB__style/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="__PUB__style/bootstrap-responsive.min.css">
+<script type="text/javascript" src="__PUB__js/bootstrap.min.js"></script>
+<script type="text/javascript" src="__PUB__js/jquery.min.js"></script>
+<script type="text/javascript" src="__PUB__js/common.js"></script>
+
+
+</head>
+<body style="margin: 10px 0px;">
+<div style="margin:0 auto; width:98%;">
+<form name="form" action="" method="post">
+<table class="table table-condensed table-bordered table-hover">
+<tbody><tr>
+	<td colspan="2" style="padding-left:10px;">
+	<div style="float:left">
+    <b>添角色员</b>
+    </div>
+    <div style="float:right">
+     [<a href="{:U('role')}"><u>返回列表</u></a>]
+    </div>
+	</td>
+</tr>
+
+<tr>
+	<td height="26" align="right" class="bline" style="padding-left:10px; text-align:right"><font color="red">角色名称：</font></td>
+	<td class="bline"><input name="name" type="text" id="name" size="30" class="iptxt" value="{$data.name}"></td>
+</tr>
+
+
+<tr>
+	<td height="26" align="right" class="bline" style="padding-left:10px; text-align:right">排序：</td>
+	<td class="bline"><input name="sort" type="text" id="sort" size="30"  class="iptxt" value="{$data.sort}"></td>
+</tr>
+
+		  
+
+<tr><td colspan="2" style="text-align:center">
+<input name="id" type="hidden" value="{$data.id}">
+<input name="domain" type="submit" style=" background:url(__PUB__img/button_save.gif); width:60px; height:22px; border:0" value="   ">
+&nbsp;&nbsp;&nbsp;<a href="javascript:history.go(-1);"><img src="__PUB__img/button_back.gif" width="60" height="22" border="0"></a></td></tr>   
+        </tbody></table>
+
+</form>
+</div>
+</body>
+</html>

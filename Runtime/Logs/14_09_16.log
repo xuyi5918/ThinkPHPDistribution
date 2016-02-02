@@ -1,0 +1,90 @@
+[ 2014-09-16T09:38:36+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T09:38:37+08:00 ] 127.0.0.1 /think/Admin/Links/index.html
+ERR: 无法加载模块:Links
+
+[ 2014-09-16T09:38:38+08:00 ] 127.0.0.1 /think/Admin/Ad/index.html
+ERR: 无法加载模块:Ad
+
+[ 2014-09-16T09:38:39+08:00 ] 127.0.0.1 /think/Admin/Model/article.html
+ERR: 非法操作:article
+
+[ 2014-09-16T09:38:39+08:00 ] 127.0.0.1 /think/Admin/Model/product.html
+ERR: 非法操作:product
+
+[ 2014-09-16T09:38:40+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T09:38:45+08:00 ] 127.0.0.1 /think/Admin/Links/index.html
+ERR: 无法加载模块:Links
+
+[ 2014-09-16T09:38:47+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T09:42:41+08:00 ] 127.0.0.1 /think/Admin/Links/index.html
+ERR: 无法加载模块:Links
+
+[ 2014-09-16T09:42:42+08:00 ] 127.0.0.1 /think/Admin/Ad/index.html
+ERR: 无法加载模块:Ad
+
+[ 2014-09-16T09:42:43+08:00 ] 127.0.0.1 /think/Admin/Model/article.html
+ERR: 非法操作:article
+
+[ 2014-09-16T09:42:44+08:00 ] 127.0.0.1 /think/Admin/Model/product.html
+ERR: 非法操作:product
+
+[ 2014-09-16T09:52:21+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T10:01:20+08:00 ] 127.0.0.1 /think/Admin/Class/ClsShow.html
+ERR: 模板不存在[./Modules/Admin/Tpl/Class/class.html]
+
+[ 2014-09-16T10:02:14+08:00 ] 127.0.0.1 /think/Admin/Class/add.html
+ERR: 非法操作:add
+
+[ 2014-09-16T10:02:17+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T10:06:52+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T10:07:24+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T10:07:25+08:00 ] 127.0.0.1 /think/Admin/Links/index.html
+ERR: 无法加载模块:Links
+
+[ 2014-09-16T10:07:25+08:00 ] 127.0.0.1 /think/Admin/Ad/index.html
+ERR: 无法加载模块:Ad
+
+[ 2014-09-16T10:07:26+08:00 ] 127.0.0.1 /think/Admin/Model/article.html
+ERR: 非法操作:article
+
+[ 2014-09-16T10:07:27+08:00 ] 127.0.0.1 /think/Admin/Model/product.html
+ERR: 非法操作:product
+
+[ 2014-09-16T10:25:31+08:00 ] 127.0.0.1 /think/Admin/Class/Class/ClsShow
+ERR: 非法操作:Class
+
+[ 2014-09-16T11:48:08+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T11:56:06+08:00 ] 127.0.0.1 /think/Admin/Category/index.html
+ERR: 无法加载模块:Category
+
+[ 2014-09-16T15:56:57+08:00 ] 127.0.0.1 /think/Admin/Commodity/Sping
+ERR: 模板不存在[./Modules/Admin/Tpl/Commodity/Sping.html]
+
+[ 2014-09-16T15:57:35+08:00 ] 127.0.0.1 /think/Admin/Model/article.html
+ERR: 非法操作:article
+
+[ 2014-09-16T15:57:37+08:00 ] 127.0.0.1 /think/Admin/Model/product.html
+ERR: 非法操作:product
+
+[ 2014-09-16T16:04:31+08:00 ] 127.0.0.1 /think/Admin/Model/product.html
+ERR: 非法操作:product
+
+[ 2014-09-16T16:04:34+08:00 ] 127.0.0.1 /think/Admin/Model/article.html
+ERR: 非法操作:article
+

@@ -1,0 +1,932 @@
+[ 2014-09-18T08:43:18+08:00 ] 127.0.0.1 /think/Home/index.html
+ERR: 无法加载模块:index
+
+[ 2014-09-18T08:44:35+08:00 ] 127.0.0.1 /think/Home/index.html
+ERR: 无法加载模块:index
+
+[ 2014-09-18T08:49:36+08:00 ] 127.0.0.1 /think/Home/verify.html
+ERR: 无法加载模块:verify
+
+[ 2014-09-18T08:50:03+08:00 ] 127.0.0.1 /think/Home/verify.html
+ERR: 无法加载模块:verify
+
+[ 2014-09-18T09:15:48+08:00 ] 127.0.0.1 /think/Home/Home/index
+ERR: Action:UserPassVerify您所请求的方法不存在！
+
+[ 2014-09-18T09:22:47+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:22:48+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:22:51+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:22:54+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:22:58+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:23:04+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:23:08+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:32:20+08:00 ] 127.0.0.1 /think/Home/CpList/
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:32:59+08:00 ] 127.0.0.1 /think/Home/CpList/
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:33:12+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:33:26+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:33:51+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:34:05+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:34:07+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:34:15+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:34:15+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:34:15+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T09:34:26+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:34:59+08:00 ] 127.0.0.1 /think/Home/CpList.html
+ERR: 无法加载模块:CpList
+
+[ 2014-09-18T09:37:42+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:25:25+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:19+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:21+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:21+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:23+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:24+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:26+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:30:28+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:22+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:24+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:26+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:29+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:29+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:29+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:32+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:34+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:32:35+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:35:52+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:35:55+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:35:59+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:35:59+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:35:59+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:36:02+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:36:04+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:36:13+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:36:15+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:36:16+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:37:26+08:00 ] 127.0.0.1 /think/Public/Admin/BaiduEdit/lang/zh-cn/zh-cn.js
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:37:26+08:00 ] 127.0.0.1 /think/Public/Admin/BaiduEdit/ueditor.all.min.js
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:37:26+08:00 ] 127.0.0.1 /think/Public/Admin/BaiduEdit/ueditor.config.js
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:37:26+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:38:15+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:39:34+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:39:34+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:39:34+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:39:36+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:39:38+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:39:40+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:41:20+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:46:23+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:50:15+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:51:06+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:52:39+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:52:48+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T10:56:22+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T11:03:53+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T11:05:35+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T11:07:01+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T11:08:55+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T11:53:52+08:00 ] 127.0.0.1 /think/Home/Home%E3%80%81
+ERR: 无法加载模块:Home、
+
+[ 2014-09-18T12:05:38+08:00 ] 127.0.0.1 /think/Home/Home/Loading/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+
+[ 2014-09-18T12:05:41+08:00 ] 127.0.0.1 /think/Home/Home/Loading/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001097s ]
+
+[ 2014-09-18T12:35:42+08:00 ] 127.0.0.1 /think/Home/Home/Loading/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003689s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 43 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+
+[ 2014-09-18T12:35:44+08:00 ] 127.0.0.1 /think/Home/Home/Loading/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003374s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 43 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+
+[ 2014-09-18T12:35:49+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003371s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 43 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+
+[ 2014-09-18T12:35:50+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003313s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 43 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+
+[ 2014-09-18T12:35:51+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003492s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 43 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+
+[ 2014-09-18T12:36:37+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001041s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003301s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 44 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+SQL: SELECT * FROM `my_sping`  [ RunTime:0.000415s ]
+
+[ 2014-09-18T12:36:39+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003254s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 44 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+SQL: SELECT * FROM `my_sping`  [ RunTime:0.000420s ]
+
+[ 2014-09-18T12:36:39+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003202s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 44 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+SQL: SELECT * FROM `my_sping`  [ RunTime:0.000434s ]
+
+[ 2014-09-18T12:37:34+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003342s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 44 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+SQL: SELECT * FROM `my_sping`  [ RunTime:0.000409s ]
+
+[ 2014-09-18T12:37:37+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003624s ]
+NOTIC: [2] Missing argument 1 for Model::limit(), called in E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php on line 44 and defined E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1512 行.
+NOTIC: [8] Undefined variable: offset E:\wamp2\www\think\_Core\Lib\Core\Model.class.php 第 1513 行.
+SQL: SELECT * FROM `my_sping`  [ RunTime:0.000461s ]
+
+[ 2014-09-18T12:53:04+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003208s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000528s ]
+
+[ 2014-09-18T12:53:42+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003304s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000425s ]
+
+[ 2014-09-18T12:54:03+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000999s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003233s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000405s ]
+
+[ 2014-09-18T12:58:07+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003489s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000414s ]
+
+[ 2014-09-18T12:59:14+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001495s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003829s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000415s ]
+
+[ 2014-09-18T13:01:25+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003227s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000412s ]
+
+[ 2014-09-18T13:01:30+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003208s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000436s ]
+
+[ 2014-09-18T13:01:39+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003373s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000403s ]
+
+[ 2014-09-18T13:03:07+08:00 ] 127.0.0.1 /think/Home/Home/12
+ERR: 非法操作:12
+
+[ 2014-09-18T13:03:13+08:00 ] 127.0.0.1 /think/Home/Home/15
+ERR: 非法操作:15
+
+[ 2014-09-18T13:04:06+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003199s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000444s ]
+
+[ 2014-09-18T13:09:36+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003228s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000453s ]
+
+[ 2014-09-18T13:10:47+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003568s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000424s ]
+
+[ 2014-09-18T13:12:16+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003079s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000415s ]
+
+[ 2014-09-18T13:12:18+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001073s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003348s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000447s ]
+
+[ 2014-09-18T13:12:34+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001351s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003389s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000453s ]
+
+[ 2014-09-18T13:13:05+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003353s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000410s ]
+
+[ 2014-09-18T13:13:11+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003233s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000453s ]
+
+[ 2014-09-18T13:13:15+08:00 ] 127.0.0.1 /think/Home/Home/17
+ERR: 非法操作:17
+
+[ 2014-09-18T13:14:34+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000950s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003180s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000445s ]
+
+[ 2014-09-18T13:14:45+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000947s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003172s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000405s ]
+
+[ 2014-09-18T13:14:58+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001520s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003261s ]
+SQL: SELECT * FROM `my_sping` LIMIT 1, 8   [ RunTime:0.000414s ]
+
+[ 2014-09-18T13:15:22+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003427s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8, 8   [ RunTime:0.000430s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php 第 46 行.
+
+[ 2014-09-18T13:15:24+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003285s ]
+SQL: SELECT * FROM `my_sping` LIMIT 16, 8   [ RunTime:0.000392s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php 第 46 行.
+
+[ 2014-09-18T13:15:25+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003361s ]
+SQL: SELECT * FROM `my_sping` LIMIT 24, 8   [ RunTime:0.000401s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php 第 46 行.
+
+[ 2014-09-18T13:15:26+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/32
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003434s ]
+SQL: SELECT * FROM `my_sping` LIMIT 32, 8   [ RunTime:0.000400s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp2\www\think\Modules\Home\Action\HomeAction.class.php 第 46 行.
+
+[ 2014-09-18T13:16:08+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003115s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8, 8   [ RunTime:0.000392s ]
+
+[ 2014-09-18T13:16:25+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003340s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8, 8   [ RunTime:0.000385s ]
+
+[ 2014-09-18T13:16:27+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001117s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003169s ]
+SQL: SELECT * FROM `my_sping` LIMIT 16, 8   [ RunTime:0.000383s ]
+
+[ 2014-09-18T13:17:02+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003192s ]
+
+[ 2014-09-18T13:17:06+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003415s ]
+
+[ 2014-09-18T13:17:25+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003219s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8, 8   [ RunTime:0.000364s ]
+
+[ 2014-09-18T13:20:27+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003246s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000396s ]
+
+[ 2014-09-18T13:25:00+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003226s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000385s ]
+
+[ 2014-09-18T13:26:08+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003227s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000370s ]
+
+[ 2014-09-18T13:27:29+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003283s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000363s ]
+
+[ 2014-09-18T13:28:10+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001076s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003533s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000363s ]
+
+[ 2014-09-18T13:28:22+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003222s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000367s ]
+
+[ 2014-09-18T13:28:52+08:00 ] 127.0.0.1 /think/Home/SubPay.html
+ERR: 无法加载模块:SubPay
+
+[ 2014-09-18T13:29:08+08:00 ] 127.0.0.1 /think/Home/SubPay.html
+ERR: 无法加载模块:SubPay
+
+[ 2014-09-18T13:47:19+08:00 ] 127.0.0.1 /think/Home/Home/SubPay/id/27/UserID/8.html
+ERR: Model:getLestSql您所请求的方法不存在！
+
+[ 2014-09-18T13:49:06+08:00 ] 127.0.0.1 /think/Home/Home/Home
+ERR: 非法操作:Home
+
+[ 2014-09-18T14:28:30+08:00 ] 127.0.0.1 /think/Admin/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001215s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001418s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:28:32+08:00 ] 127.0.0.1 /think/Admin/Admin/role.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001123s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:28:33+08:00 ] 127.0.0.1 /think/Admin/Index/system.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001144s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001349s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:28:34+08:00 ] 127.0.0.1 /think/Admin/Index/delcache.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001394s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001605s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001351s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:28:36+08:00 ] 127.0.0.1 /think/Admin/Baksql/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001230s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:28:40+08:00 ] 127.0.0.1 /think/Admin/Admin/role.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001140s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001345s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:32:50+08:00 ] 127.0.0.1 /think/Admin/Index/system.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001147s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:32:53+08:00 ] 127.0.0.1 /think/Admin/Index/delcache.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000995s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:38+08:00 ] 127.0.0.1 /think/Admin/Admin/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000924s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:40+08:00 ] 127.0.0.1 /think/Admin/Admin/role.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000952s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:41+08:00 ] 127.0.0.1 /think/Admin/Index/system.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000930s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001137s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:41+08:00 ] 127.0.0.1 /think/Admin/Index/delcache.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000926s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001130s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:42+08:00 ] 127.0.0.1 /think/Admin/Baksql/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001051s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:44+08:00 ] 127.0.0.1 /think/Admin/Class/ClsShow.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000893s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:46+08:00 ] 127.0.0.1 /think/Admin/User/AddUser.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000902s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:47+08:00 ] 127.0.0.1 /think/Admin/User/UserList.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000923s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:48+08:00 ] 127.0.0.1 /think/Admin/User/huishou.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003113s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003325s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:33:48+08:00 ] 127.0.0.1 /think/Admin/User/UserLevel.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001237s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:34:06+08:00 ] 127.0.0.1 /think/Admin/Class/ClsShow.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000954s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:34:07+08:00 ] 127.0.0.1 /think/Admin/User/AddUser.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000903s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001105s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:34:09+08:00 ] 127.0.0.1 /think/Admin/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000892s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001097s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:34:31+08:00 ] 127.0.0.1 /think/Admin/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002990s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003200s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:34:32+08:00 ] 127.0.0.1 /think/Admin/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001102s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002090s ]
+ERR: 无法加载模块:Admin
+
+[ 2014-09-18T14:57:22+08:00 ] 127.0.0.1 /think/Home/Home/sp
+ERR: 非法操作:sp
+
+[ 2014-09-18T16:01:09+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003890s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000540s ]
+
+[ 2014-09-18T16:31:49+08:00 ] 127.0.0.1 /think/Admin/Alpay/Config.html
+ERR: 无法加载模块:Alpay
+
+[ 2014-09-18T16:31:59+08:00 ] 127.0.0.1 /think/Admin/Alpay/Config.html
+ERR: 无法加载模块:Alpay
+
+[ 2014-09-18T16:31:59+08:00 ] 127.0.0.1 /think/Admin/Alpay/Config.html
+ERR: 无法加载模块:Alpay
+
+[ 2014-09-18T16:32:14+08:00 ] 127.0.0.1 /think/Admin/Alpay/Config.html
+ERR: 无法加载模块:Alpay
+
+[ 2014-09-18T16:32:19+08:00 ] 127.0.0.1 /think/Admin/Alipay/Config.html
+ERR: 无法加载模块:Alipay
+
+[ 2014-09-18T16:32:35+08:00 ] 127.0.0.1 /think/Home/Alipay/Config.html
+ERR: 无法加载模块:Alipay
+
+[ 2014-09-18T16:33:04+08:00 ] 127.0.0.1 /think/Home/Alipy/Config.html
+ERR: 无法加载模块:Alipy
+
+[ 2014-09-18T16:33:18+08:00 ] 127.0.0.1 /think/Admin/Alipy/Config.html
+ERR: 模板不存在[./Modules/Admin/Tpl/Alipy/system.html]
+
+[ 2014-09-18T17:17:04+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003200s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000391s ]
+
+[ 2014-09-18T18:14:27+08:00 ] 127.0.0.1 /think/Hoem/Home/index
+ERR: 无法加载模块:Hoem
+
+[ 2014-09-18T18:24:58+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003417s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000420s ]
+
+[ 2014-09-18T18:25:00+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003194s ]
+SQL: SELECT * FROM `my_sping` LIMIT 16,8   [ RunTime:0.000396s ]
+
+[ 2014-09-18T18:25:02+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.003183s ]
+SQL: SELECT * FROM `my_sping` LIMIT 24,8   [ RunTime:0.000370s ]
+
+[ 2014-09-18T21:51:42+08:00 ] 127.0.0.1 /think/
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:43+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:44+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:45+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:46+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:47+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:48+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:49+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:51:51+08:00 ] 127.0.0.1 /think/Home/Index/index.html
+ERR: 模板不存在[./Modules/Home/Tpl/Index/index.html]
+
+[ 2014-09-18T21:56:53+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.006853s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000653s ]
+
+[ 2014-09-18T21:56:54+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.007227s ]
+SQL: SELECT * FROM `my_sping` LIMIT 16,8   [ RunTime:0.000678s ]
+
+[ 2014-09-18T21:56:58+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.008224s ]
+SQL: SELECT * FROM `my_sping` LIMIT 24,8   [ RunTime:0.000697s ]
+
+[ 2014-09-18T22:28:04+08:00 ] 127.0.0.1 /think/Public/Admin/js/jquery-1.10.2.min.map
+ERR: 无法加载模块:Public
+
+[ 2014-09-18T23:00:59+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/8
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.007409s ]
+SQL: SELECT * FROM `my_sping` LIMIT 8,8   [ RunTime:0.000742s ]
+
+[ 2014-09-18T23:01:01+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/16
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.008062s ]
+SQL: SELECT * FROM `my_sping` LIMIT 16,8   [ RunTime:0.000808s ]
+
+[ 2014-09-18T23:01:08+08:00 ] 127.0.0.1 /think/Home/Home/Loading/Start/24
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.007534s ]
+SQL: SELECT * FROM `my_sping` LIMIT 24,8   [ RunTime:0.000731s ]
+

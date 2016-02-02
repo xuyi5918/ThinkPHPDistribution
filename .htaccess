@@ -1,0 +1,18 @@
+RewriteEngine on
+
+RewriteRule ^(seapi/.+?)\.do$ index.php/$1 [QSA,PT,L]
+
+RewriteRule ^(image/.+?)\.do$ index.php/$1 [QSA,PT,L]
+
+RewriteRule ^r(\d+)(?:/|.html)?$ index.php/spread/index?r=$1&go_type=index [QSA,PT,L]
+
+
+
+#RewriteRule ^admin(?:/|.html)?$ index.php/default/index [QSA,PT,L]
+#RewriteRule ^admin/login(?:/|.html)?$ index.php/default/index [QSA,PT,L]
+#RewriteRule ^admin/login/index(?:/|.html)?$ index.php/default/index [QSA,PT,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !(\.jpg|\.gif|\.png|\.bmp|\.css|\.js|\.ico|\.txt)$ [NC]
+RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]

@@ -1,0 +1,56 @@
+.panel-left{
+	width: 49%;
+	float: left;
+	/*margin-right: 20px;*/
+}
+.panel-right{
+	width: 49%;
+	float: right;
+}
+.box{
+	width:100%;
+	min-height:100%;
+	margin-bottom: 10px;
+}
+.box .title{
+	height:32px;
+	line-height:32px;
+	border:1px solid #c4c4c4;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	-moz-box-shadow:0 1px 0px rgba(255, 255, 255, 1);
+	-webkit-box-shadow: 0 1px 0px rgba(255, 255, 255, 1);
+	box-shadow: 0 1px 0px rgba(255, 255, 255, 1);
+	background: url("../img/title.png");
+	position: relative;
+}
+.box .title i{
+	margin-left: 15px;
+}
+.box .title span{
+	margin-left: 10px;
+}
+.box .title .minimize {
+	cursor: pointer;
+	border: 1px solid #C4C4C4;
+	padding: 0px 10px;
+	height: 18px;
+	position: absolute;
+	right: 10px;
+	top: 5px;
+	border-radius: 2px;
+	background: url("../img/jian.png") no-repeat center 3px #F3F3F3;
+}
+.box .content{
+	padding: 10px;
+	border: 1px solid #C4C4C4;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	border-top: none;
+	background-color: white;
+	position: relative;
+}
+.hide{
+	display:none;
+}
+p{ font-size:12px;}

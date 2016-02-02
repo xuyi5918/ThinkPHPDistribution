@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>|后台管理系统</title>
+<link rel="stylesheet" type="text/css" href="__PUB__style/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="__PUB__style/bootstrap-responsive.min.css">
+<link rel="stylesheet" type="text/css" href="__PUB__style/node.css">
+<script type="text/javascript" src="__PUB__js/bootstrap.min.js"></script>
+<script type="text/javascript" src="__PUB__js/jquery.min.js"></script>
+<script type="text/javascript" src="__PUB__js/jquery.form.js"></script>
+<script type="text/javascript" src="__PUB__js/jquery.custom.js"></script>
+<script type="text/javascript" src="__PUB__js/common.js"></script>
+</head>
+<body style="margin: 10px 0px;">
+<div style="margin:0 auto; width:98%;">
+<table class="table table-condensed table-bordered">
+<tbody><tr>
+	<td colspan="11" style="padding-left:10px;">
+	<div style="float:left">
+    <b>节点列表</b>
+    </div>
+    <div style="float:right">
+     [<!--a href=""><u>增加应用</u></a-->]
+    </div>
+	</td>
+</tr>
+<tr>
+<td>
+<div class="app">
+<div class="title">
+<div class="pull-left"><i class="icon-th-large"></i> 功能授权</div>
+</div>
+<volist name="data" id="v">
+    <div class="action">
+    <div class="title">
+    <div class="pull-left"><i class="icon-th"></i>{$v.key}</div></div>
+    <volist name="v['list']" id="vo">
+    <div class="method">
+            <div><input name="check" type="checkbox" value="{$vo.id}" <if condition="$vo['is'] eq 1"> checked</if>>{$vo.title}[{$vo.name}]</div>
+    </div>
+    </volist>
+    </div>
+</volist>
+
+
+
+
+
+
+
+
+                    </div>
+                    </td>
+</tr>
+</tbody></table>
+</div>
+
+</body></html>

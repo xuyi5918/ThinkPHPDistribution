@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>管理员|后台管理系统</title>
+<link rel="stylesheet" type="text/css" href="__PUB__style/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="__PUB__style/bootstrap-responsive.min.css">
+<script type="text/javascript" src="__PUB__js/bootstrap.min.js"></script>
+<script type="text/javascript" src="__PUB__js/jquery.min.js"></script>
+<script type="text/javascript" src="__PUB__js/common.js"></script>
+<script type="text/javascript" src="__PUB__js/globe.js"></script>
+</head>
+<body style="margin: 10px 0px;">
+<div style="margin:0 auto; width:98%;">
+<table class="table table-condensed table-bordered table-hover">
+<tbody><tr>
+	<td colspan="5" style="padding-left:10px;">
+	<div style="float:left">
+    <b>角色管理</b>
+    </div>
+    <div style="float:right">
+	 <button class="btn btn-mini url" type="button" style="cursor:pointer;" url="{:U('roleadd')}"><i class="icon-plus"></i> 添加</button>
+    </div>
+	</td>
+</tr>
+<tr>
+    <td width="4%" style="text-align:center">排序</td>
+    <td width="25%" style="text-align:center">角色名称</td>
+    <td width="15%" style="text-align:center">管理员数量</td>
+    <td width="10%" style="text-align:center">状态</td>
+    <td style="text-align:center">操作项</td>
+</tr>
+<volist name="lists" id="vo" key="k">
+	<tr>
+		<td style="text-align:center">{$k}</td>
+		<td style="text-align:center">{$vo.name}</td>
+		<td style="text-align:center">{$vo.num}</td>
+		<td style="text-align:center">
+			<a href="{:U('roleshow',array('tid'=>I('tid'),'id'=>$vo['id'],'p'=>I('p')))}" class="btn btn-mini <eq name="vo.id" value="1"> no_a</eq>">
+				<if condition="$vo['isshow'] eq 1 ">
+					<i class="icon-ok"></i>
+				<else />
+					<i class="icon-no"></i>
+				</if>
+			</a>   
+		</td>
+		<td style="text-align:center">
+			<a href="{:U('auth',array('id'=>$vo['id']))}" class="btn btn-mini <eq name="vo.id" value="1"> no_a</eq>"><i class="icon-edit"></i> 功能授权</a>
+			<a href="{:U('authcat',array('id'=>$vo['id']))}" class="btn btn-mini <eq name="vo.id" value="1"> no_a</eq>"><i class="icon-edit"></i> 内容授权</a> 
+			<a href="{:U('roleedit',array('id'=>$vo['id']))}" class="btn btn-mini <eq name="vo.id" value="1"> no_a</eq>"><i class="icon-edit"></i> 编辑</a>
+			<a href="{:U('roledelete',array('id'=>$vo['id']))}" class="btn btn-mini <eq name="vo.id" value="1"> no_a</eq>"><i class="icon-trash"></i> 删除</a>
+		</td>
+	</tr>
+ </volist>
+
+</tbody></table>
+</div>
+
+</body></html>

@@ -1,0 +1,1 @@
+<?php	return array ( 'title' => '北京瑞德轩科贸有限公司', 'domain' => '网站域名', 'keywords' => '关键词', 'description' => '描述', 'footer' => '地址：中国.北京.朝阳区望京广顺南大街21号蓝色家族C座1102室   |  电话：86-010-51297708  |   ', 'topjs' => '头部JS', 'footerjs' => '底部JS', 'status' => '1', 'tip' => '网站未备案', 'wem' => '/Uploads/image/20140713/ewm.png', );?>

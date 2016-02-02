@@ -1,0 +1,4 @@
+.app{ border:1px solid #ddd;margin-bottom:10px;padding:0px 0px 5px 0px; overflow:hidden}
+.action{ border:1px solid #ddd;margin:10px 10px 0px 10px; padding:0px 0px 5px 0px;overflow:hidden}
+.method{ float:left;margin:5px 10px 0px 10px;padding:0 10px; overflow:hidden}
+.title{ background-color:#eee; height:32px; line-height:32px; padding:0 10px; border-bottom:1px solid #ddd;}

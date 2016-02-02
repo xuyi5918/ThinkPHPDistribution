@@ -1,0 +1,98 @@
+[ 2016-01-28T11:31:43+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/8/where/28
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.008999s ]
+SQL: SELECT * FROM `my_sping` WHERE ( Clasid = 28 ) LIMIT 0,8   [ RunTime:0.000655s ]
+
+[ 2016-01-28T11:31:43+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/16/where/28
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.020947s ]
+SQL: SELECT * FROM `my_sping` WHERE ( Clasid = 28 ) LIMIT 0,8   [ RunTime:0.000516s ]
+
+[ 2016-01-28T11:31:43+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/24/where/28
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.006244s ]
+SQL: SELECT * FROM `my_sping` WHERE ( Clasid = 28 ) LIMIT 0,8   [ RunTime:0.000466s ]
+
+[ 2016-01-28T11:31:43+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/32/where/28
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.005506s ]
+SQL: SELECT * FROM `my_sping` WHERE ( Clasid = 28 ) LIMIT 0,8   [ RunTime:0.000848s ]
+
+[ 2016-01-28T11:31:44+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/40/where/28
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.008421s ]
+SQL: SELECT * FROM `my_sping` WHERE ( Clasid = 28 ) LIMIT 0,8   [ RunTime:0.001442s ]
+
+[ 2016-01-28T11:31:44+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/48/where/28
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.006643s ]
+SQL: SELECT * FROM `my_sping` WHERE ( Clasid = 28 ) LIMIT 0,8   [ RunTime:0.000483s ]
+
+[ 2016-01-28T11:33:23+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/8/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.005972s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.000440s ]
+
+[ 2016-01-28T11:33:23+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/16/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.007148s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.001183s ]
+
+[ 2016-01-28T11:34:04+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/24/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.006029s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.000512s ]
+
+[ 2016-01-28T11:38:05+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/8/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.008328s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.000628s ]
+
+[ 2016-01-28T11:38:05+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/16/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.005307s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.000673s ]
+
+[ 2016-01-28T11:38:06+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/24/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.009887s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.000632s ]
+
+[ 2016-01-28T11:38:06+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/32/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.006883s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.000687s ]
+
+[ 2016-01-28T11:38:06+08:00 ] 127.0.0.1 /fenxiao/Home/Home/Loading/Start/40/where/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+SQL: SHOW COLUMNS FROM `my_sping` [ RunTime:0.008804s ]
+SQL: SELECT * FROM `my_sping` LIMIT 0,8   [ RunTime:0.001011s ]
+

@@ -1,0 +1,163 @@
+/***** 1. RESET STYLE *****/
+/**************************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	background: transparent;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+
+/***** 2. GENERAL STYLES *****/
+/*****************************/
+
+
+body { font-size: 12px; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; color: #666; line-height: 21px; }
+input, select, textarea, button { font-size: 12px; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; outline: none; margin: 0; }
+a { text-decoration: none; color: #666; outline: none; }
+button { outline: none; }
+a img { border: 0; }
+h1,h2,h3,h4,h5, span.h3 { font-family: 'RobotoBoldCondensed', Arial, Helvetica, sans-serif; font-weight: normal; }
+small { font-size: 11px; }
+h1 { font-size: 32px; }
+h2 { font-size: 28px; }
+h3 { font-size: 24px; }
+h4 { font-size: 18px; }
+h5 { font-size: 14px; }
+
+span.h3 { font-size: 24px; display: block; }
+
+body.withvernav { background: #fff url(../images/line.ccc.png) repeat-y 230px 0; } /* with left menu*/
+body.withmenucoll { background-position: 55px 0; } /* with menu style 1 in collapsed mode */
+body.withmenucoll2 { background-position: 35px 0; } /* with menu style 2 in collapsed mode */
+
+
+
+.topheader { background: #34445e url(../images/default/topheaderbg.png); padding: 8px 10px; position: relative; border-bottom: 1px solid #303f59; }
+.topheader .left h1.logo { 
+	font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; font-weight: normal; text-transform: uppercase; color: #fb9337;
+	float: left; font-size: 30px; margin: 10px 0;
+}.topheader .left h1.logo a { color: #fb9337; }
+.topheader .left h1.logo span { color: #fff; }
+.topheader .left .slogan { 
+	font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; float: left; padding: 8px 10px; 
+	border-left: 1px solid #606d84; color: #6a778d; font-style: italic; margin: 2px 10px; 
+}
+
+.search { float: left; margin: 2px 10px; }
+.search input[type=text] { 
+	border: 0; padding: 10px 8px 11px 8px; background: #32415a; float: left; color: #4a5b78; -moz-border-radius: 2px 0 0 2px; margin: 0;
+	-webkit-border-radius: 2px 0 0 2px; border-radius: 2px 0 0 2px; border-bottom: 1px solid #445775; width: 200px; font-style: italic;
+	-moz-box-shadow: inset 1px 1px 2px #2b384e; -webkit-box-shadow: inset 1px 1px 2px #2b384e; box-shadow: inset 1px 1px 2px #2b384e;
+}
+.search input[type=text]:focus { font-style: normal; color: #6a778d; }
+.search .submitbutton { 
+	float: left; border: 0; border-bottom: 1px solid #445775; -moz-border-radius: 0 0 2px 0; -webkit-border-radius: 0 0 2px 0; cursor: pointer;
+	border-radius: 0 0 2px 0; background: url(../images/default/searchbutton.png) no-repeat 0 0; width: 38px; height: 37px; vertical-align: middle;
+}
+
+.topheader .right { position: absolute; top: 10px; right: 10px; }
+
+.notification { float: left; position: relative; }
+.notification a.count { 
+	background: #cc170e url(../images/default/notibg.png) repeat-x top left; margin-right: 10px; 
+	font-size: 14px; font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; padding: 8px 13px;
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; border-bottom: 1px solid #445775;
+	-moz-box-shadow: inset 0 0 5px #400603; -webkit-box-shadow: inset 0 0 5px #400603; box-shadow: inset 0 0 5px #400603; 
+	color: #fff; cursor: pointer; display: inline-block;
+}
+.notification a.count:hover { background: #d7180e; }
+
+.noticontent { 
+	position: absolute; z-index: 100; width: 300px; top: 48px; right: 10px; -moz-border-radius: 2px;
+	-webkit-border-radius: 2px; border-radius: 2px; background: #fff; -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); z-index: 200;
+}
+
+
+
+/***** 7. HEADER STYLES *****/
+/****************************/
+
+
+.header { 
+	background: #485b79 url(../images/default/headerbg.png); min-height: 31px; overflow: hidden; border-bottom: 2px solid #fb9337; 
+	-moz-box-shadow: inset 0 1px 0 #50627f; -webkit-box-shadow: inset 0 1px 0 #50627f; box-shadow: inset 0 1px 0 #50627f;
+	position: relative;
+}
+.headermenu { overflow: hidden; list-style: none; border-right: 1px solid #576a85; display: inline-block; }
+.headermenu li { float: left; display: inline-block; border-left: 1px solid #576a85; border-right: 1px solid #394962; }
+.headermenu li:first-child { border-left: 0; }
+.headermenu li a { 
+	display: block; font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; color: #fff; text-transform: uppercase; 
+	padding: 5px 5px;
+}
+.headermenu li a { min-width: 80px; text-align: center; }
+.headermenu li a span { opacity: 0.5; }
+.headermenu li a span.icon { height: 30px; display: block; margin-bottom: 10px; }
+
+.headermenu li a span.icon-flatscreen { background: url(../images/icons/flatscreen.white.png) no-repeat center center; }
+.headermenu li a span.icon-pencil { background: url(../images/icons/pencil.white.png) no-repeat center center; }
+.headermenu li a span.icon-speech { background: url(../images/icons/speech.white.png) no-repeat center center; }
+.headermenu li a span.icon-message { background: url(../images/icons/message.white.png) no-repeat center center; }
+.headermenu li a span.icon-chart { background: url(../images/icons/chart.white.png) no-repeat center center; }
+.headermenu li a:hover { 
+	background: url(../images/default/bghover.png) no-repeat center bottom; -moz-box-shadow: inset 0 1px 0 #4f627e; 
+	-webkit-box-shadow: inset 0 1px 0 #4f627e; box-shadow: inset 0 1px 0 #4f627e;
+}
+
+.headermenu li.current { border-left: 0; border-right: 1px solid #394962;  }
+.headermenu li.current a { 
+	background: url(../images/default/arrow-active.png) no-repeat center bottom; -moz-box-shadow: inset 0 1px 0 #4f627e; 
+	-webkit-box-shadow: inset 0 1px 0 #4f627e; box-shadow: inset 0 1px 0 #4f627e; }
+.headermenu li.current a span { opacity: 1; } 
+
+.headerwidget { position: absolute; top: 10px; right: 10px; }
+.headerwidget .earnings { 
+	background: #32415a; padding: 8px 10px; overflow: hidden; -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px; 
+	min-width: 200px; -moz-box-shadow: inset 1px 1px 2px #29374e; -webkit-box-shadow: inset 1px 1px 2px #29374e; box-shadow: inset 1px 1px 2px #29374e;		
+	border-bottom: 1px solid #516686;
+}
+.headerwidget .earnings h4 { 
+	font-weight: normal; text-transform: uppercase; color: #eee; font-size: 11px; 
+	font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; margin-bottom: 8px;
+}
+.headerwidget .earnings h2 { 
+	color: #f6e4a5; font-size: 32px; font-weight: normal; font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; margin-bottom: 8px;
+}
+
+.topheader .right { position: absolute; top: 10px; right: 10px; }
+
+.notification { float: left; position: relative; }
+.notification a.count { 
+	background: #cc170e url(../images/default/notibg.png) repeat-x top left; margin-right: 10px; 
+	font-size: 14px; font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; padding: 8px 13px;
+	-moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; border-bottom: 1px solid #445775;
+	-moz-box-shadow: inset 0 0 5px #400603; -webkit-box-shadow: inset 0 0 5px #400603; box-shadow: inset 0 0 5px #400603; 
+	color: #fff; cursor: pointer; display: inline-block;
+}
+.notification a.count:hover { background: #d7180e; }
+
+.noticontent { 
+	position: absolute; z-index: 100; width: 300px; top: 48px; right: 10px; -moz-border-radius: 2px;
+	-webkit-border-radius: 2px; border-radius: 2px; background: #fff; -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); z-index: 200;
+}
+
+.userinfo { 
+	padding: 6px 18px 6px 6px; background: #32415a url(../images/default/userinfoarrow.png) no-repeat right center; -moz-border-radius: 2px; 
+	-webkit-border-radius: 2px; border-radius: 2px; -moz-box-shadow: inset 1px 1px 2px #2b384e; float: left; border-bottom: 1px solid #445775;
+	-webkit-box-shadow: inset 1px 1px 2px #2b384e; box-shadow: inset 1px 1px 2px #2b384e; cursor: pointer;
+}
+.userinfo:hover { background-color: #2d3b53; }
+.userinfo img { border: 1px solid #b9c1ce; vertical-align: middle; }
+.userinfo span { color: #b9c2cf; display: inline-block; padding: 0 5px; font-family: 'RobotoCondensed', Arial, Helvetica, sans-serif; }

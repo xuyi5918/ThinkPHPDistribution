@@ -1,0 +1,26 @@
+#Plus_Box{
+	background:#FFF;
+	height:300px;
+	width:800px;
+	border-radius:10px;
+	border: 1px solid #999;
+	margin:0 auto;
+	z-index:100px;
+	position:absolute;
+	left:10%;
+	top:20%;
+}
+#Plus_Box h2{
+	background-color:#060;
+	color:#FFF;
+	font-size:12px;
+	text-align:center;
+	margin:0px;
+	border-radius:10px;
+}
+ #Input_w{
+	width:20px	;
+}
+	#Btn{
+		margin:0 auto;		
+	}

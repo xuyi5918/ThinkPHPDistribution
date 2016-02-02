@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 公共样式表 */
+body{ font-family:"宋体",arial; font-size:12px; color:#565656; text-align:left; background:#FFF; margin:0; padding:0;}
+div,form,img,ul,ol,li,dl,dt,dd,{ margin:0; padding:0; border:0;}
+ul,ol,li,dl,dt,dd{ margin:0px; padding:0px;}
+li,dl{ list-style-type:none;}
+h2,h3,h4,h5,h6{ margin:0; padding:0; font-size:12px; font-weight:normal;}
+p{ margin:0; padding:0;}
+h1{ margin:0; padding:0; font-size:14px;}
+form{ line-height:100%;}
+img{ display:block;}
+a img{ border:none;}
+a:link{ text-decoration:none;}
+a:visited{ text-decoration:none;}
+a:hover{ text-decoration:none;}
+a:active{ text-decoration:none;}
+.clear{ clear:both;}
+.inherit{ clear:inherit}
+.fl{ float:left;}
+.fr{ float:right;}
+.input-year{ width:28px;}
+.input-min{ width:18px;}
+.time{height:35px; padding-top:5px;}
+.brand {
+    background: url("../img/logo.png") no-repeat scroll center  transparent;
+    height: 17px;
+    width: 225px;
+}
+.line {
+	background:url("../img/line.png") no-repeat right;
+}
+.head{ height:91px;width:100%;}
+
+
+.left {
+	top: 90px;
+	left: 0px;
+	bottom: 0px;
+	position: absolute;
+	overflow:hidden;
+}
+.menu {
+	height: 100%;
+}
+.menu iframe {
+	height: 100%;
+	width: 210px;
+}
+.right {
+	left: 210px;
+	right: 0px;
+	top: 90px;
+	bottom: 0px;
+	position: absolute;
+	overflow:hidden;
+}
+.main {
+	height: 100%;
+}
+.main iframe {
+	height: 100%;
+	width: 99.99%;
+}
+a.mmac div {
+    background: url("../img/leftbg2.gif") no-repeat scroll 0 0 transparent;
+    color: #325304;
+    font-weight: bold;
+    height: 37px !important;
+    padding: 6px 4px 4px 10px;
+    word-wrap: break-word;
+}
+a.mm:hover div {
+	background:url(../img/leftbg2.gif) no-repeat;
+	color:#4F7632;
+}

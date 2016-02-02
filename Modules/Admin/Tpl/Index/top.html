@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>{:C('title')}</title>
+<link rel="stylesheet" href="__PUB__style/top.css" type="text/css" />
+<!--[if IE 9]>
+    <link rel="stylesheet" media="screen" href="__PUB__style/style.ie9.css"/>
+<![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" media="screen" href="__PUB__style/style.ie8.css"/>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="__PUB__style/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="bodywrapper">
+    <div class="topheader">
+        <div class="left">
+            <h1 class="logo">管理.<span>系统</span></h1>
+            <span class="slogan">{:C('title')}</span>
+            
+            <br clear="all" />
+            
+        </div><!--left-->
+        
+        <div class="right">
+        	<div class="notification">
+                <a class="count" target="main" href="{:U('Index/delcache')}"><span>清除缓存</span></a>
+        	</div>
+        	<div class="userinfo">
+                <span>{$admin_name}&nbsp;(&nbsp;{$admin_role}&nbsp;)</span>
+				<span><a href="{:U('outlogin')}" target="main" style="color: #fff;">[注销]</a></span>
+            </div><!--userinfo-->
+            
+        </div><!--right-->
+    </div><!--topheader-->
+    
+    
+    <div class="header">
+    	<ul class="headermenu">
+        	<li><a target="_block" href="{:U('/Index/index')}">网站首页</a></li>
+            <li><a target="main" href="{:U('Index/main')}">系统主页</a></li>
+        </ul>        
+    </div><!--header-->
+    
+</div><!--bodywrapper-->
+
+</body>
+</html>
